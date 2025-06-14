@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QuantityPricePair
+comment1.params=quantity\ unitPrice
+comment1.target=QuantityPricePair(int,\ double)
+comment2.params=
+comment2.target=int\ getQuantity()
+comment3.params=
+comment3.target=double\ getUnitPrice()
+comment4.params=
+comment4.target=double\ calculateCost()
+numComments=5

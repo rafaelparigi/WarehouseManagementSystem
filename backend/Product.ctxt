@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Product
+comment1.params=id\ stock\ minimumStock
+comment1.target=Product(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=
+comment3.target=int\ getStock()
+comment4.params=
+comment4.target=void\ printProduct()
+comment5.params=quantity\ type
+comment5.target=void\ updateStock(int,\ InvoiceType)
+comment6.params=
+comment6.target=boolean\ isLowStock()
+numComments=7

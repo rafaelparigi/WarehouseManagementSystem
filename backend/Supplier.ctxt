@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Supplier
+comment1.params=contactDetails
+comment1.target=Supplier(ContactDetails)
+comment2.params=
+comment2.target=ContactDetails\ getContactDetails()
+comment3.params=
+comment3.target=java.util.ArrayList\ getOrders()
+comment4.params=order
+comment4.target=void\ addOrder(Invoice)
+comment5.params=contactDetails
+comment5.target=void\ updateSupplier(ContactDetails)
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InvoiceTest
+comment0.text=\n\ The\ test\ class\ InvoiceTest.\n\n\ @Rafael\n\ @29May\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testInvoiceCreation()
+comment3.params=
+comment3.target=void\ testAddInvoiceLine()
+comment4.params=
+comment4.target=void\ getTotalPrice()
+numComments=5

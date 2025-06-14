@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SupplierPanel
+comment1.params=system
+comment1.target=SupplierPanel(backend.WarehouseManagementSystem)
+comment2.params=e
+comment2.target=void\ insertUpdate(javax.swing.event.DocumentEvent)
+comment3.params=e
+comment3.target=void\ removeUpdate(javax.swing.event.DocumentEvent)
+comment4.params=e
+comment4.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
+comment5.params=
+comment5.target=void\ checkFields()
+comment6.params=supplier
+comment6.target=void\ updateInvoiceArea(backend.Supplier)
+comment7.params=
+comment7.target=void\ refreshSelectedSupplierInvoices()
+comment8.params=
+comment8.target=void\ clearFields()
+numComments=9

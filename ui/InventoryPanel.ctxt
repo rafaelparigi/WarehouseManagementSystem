@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InventoryPanel
+comment1.params=system
+comment1.target=InventoryPanel(backend.WarehouseManagementSystem)
+comment2.params=list\ value\ index\ isSelected\ cellHasFocus
+comment2.target=java.awt.Component\ getListCellRendererComponent(javax.swing.JList,\ java.lang.Object,\ int,\ boolean,\ boolean)
+comment3.params=
+comment3.target=void\ refreshInventoryList()
+numComments=4

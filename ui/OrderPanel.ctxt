@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OrderPanel
+comment1.params=system\ supplierPanel\ inventoryPanel
+comment1.target=OrderPanel(backend.WarehouseManagementSystem,\ SupplierPanel,\ InventoryPanel)
+comment2.params=
+comment2.target=void\ refreshSupplierBox()
+numComments=3
