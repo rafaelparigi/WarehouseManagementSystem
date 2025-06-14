@@ -1,4 +1,11 @@
-package backend;
+/**
+ * @Rafael
+ * @31May
+ */
+
+package backend_tests;
+import backend.*;
+import UI.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

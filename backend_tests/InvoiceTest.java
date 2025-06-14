@@ -1,15 +1,16 @@
-package backend;
+/**
+ * @Rafael
+ * @29May
+ */
+
+package backend_tests;
+import backend.*;
+import UI.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-/**
- * The test class InvoiceTest.
- *
- * @Rafael
- * @29May
- */
 public class InvoiceTest
 {
     private Invoice invoice;

@@ -1,11 +1,11 @@
 /**
- * The test class SupplierTest.
- *
  * @Rafael
  * @28May
  */
 
-package backend;
+package backend_tests;
+import backend.*;
+import UI.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
