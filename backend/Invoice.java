@@ -11,14 +11,11 @@ import java.time.LocalDateTime;
 
 public class Invoice
 {
-    private String id; // invoice id
+    private String id;
     private LocalDateTime date;
     private InvoiceType type;
-    private HashMap<String, QuantityPricePair> billOfItems; // productId + <quantity, unit price> 
+    private HashMap<String, QuantityPricePair> billOfItems;
     
-    /**
-     * Constructor for objects of class Order
-     */
     public Invoice(InvoiceType type) {
         this.id = UUID.randomUUID().toString();
         this.date = LocalDateTime.now();

@@ -80,7 +80,7 @@ public class InventoryPanel extends JPanel {
             }
         });
 
-        refreshInventoryList(); // Initial load
+        refreshInventoryList();
     }
 
     public void refreshInventoryList() {

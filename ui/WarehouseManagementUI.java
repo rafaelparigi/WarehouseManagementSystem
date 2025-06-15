@@ -18,13 +18,11 @@ public class WarehouseManagementUI extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
-        // Create panels
         SupplierPanel supplierPanel = new SupplierPanel(system);
         InventoryPanel inventoryPanel = new InventoryPanel(system);
         OrderPanel orderPanel = new OrderPanel(system, supplierPanel, inventoryPanel);
         ReportPanel reportPanel = new ReportPanel(system);
 
-        // Tabbed pane
         JTabbedPane tabbedPane = new JTabbedPane();
         tabbedPane.addTab("Suppliers", supplierPanel);
         tabbedPane.addTab("Inventory", inventoryPanel);

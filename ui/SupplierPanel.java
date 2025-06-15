@@ -1,9 +1,7 @@
 
 /**
- * Write a description of class SupplierPanel here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * @Rafael
+ * @11Jun
  */
 package ui;
 import backend.*;

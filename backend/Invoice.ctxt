@@ -2,7 +2,6 @@
 comment0.target=Invoice
 comment1.params=type
 comment1.target=Invoice(InvoiceType)
-comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Order\n
 comment2.params=productId\ quantityPrice
 comment2.target=void\ addInvoiceLine(java.lang.String,\ QuantityPricePair)
 comment3.params=
